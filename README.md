@@ -8,3 +8,4 @@ cd /data
 ./sjk_test
 
 wqy-zenhei.ttc需要和sjk_test在同一个目录
+# skwork
